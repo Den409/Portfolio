@@ -530,7 +530,7 @@ class Ui_MainWindow(object):
         self.btn_image.setText(_translate("MainWindow", "Вибрати зображення"))
 
         self.btn_image_resize.setText(_translate("MainWindow", "Змінити розмір"))
-        self.btn_image_post.setText(_translate("MainWindow", "Постеризцувати"))
+        self.btn_image_post.setText(_translate("MainWindow", "Постеризувати"))
 
         self.btn_image_help.setText(_translate("MainWindow", "?"))
         self.label_canvas.setText(_translate("MainWindow", "Полотно"))
